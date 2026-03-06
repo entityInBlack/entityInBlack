@@ -93,8 +93,8 @@ Cloud Computing Concepts • Virtualization • MapReduce • Distributed File S
 ---
 ## 📜 Certifications
 
-
-- [![IEEE CS BDC SUMMER SYMPOSIUM](537.png)](537.png)
+IEEE CS BDC SUMMER SYMPOSIUM
+- [![IEEE CS BDC SUMMER SYMPOSIUM 2025](537.png)](537.png)
 
 
   
