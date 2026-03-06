@@ -91,7 +91,12 @@ Cloud Computing Concepts • Virtualization • MapReduce • Distributed File S
 * Developed IP addressing scheme and Ethernet cabling layout
 
 ---
+## 📜 Certifications
 
+- IEEE CS BDC SUMMER SYMPOSIUM – (Paste your certificate link)
+
+
+  
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=entityInBlack\&show_icons=true)
